@@ -1,17 +1,17 @@
 {
-    "name": "youshido/api-images",
+    "name": "ozznest/api-images",
     "description": "Library to implement images to GraphQL API",
     "keywords": ["graphql", "image", "upload", "api", "symfony", "resize"],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Portey Vasil",
-            "email": "portey@gmail.com"
-        }
+       {
+		  "name": "Olexiy Chuiko",
+		  "email": "oznest@i.ua"
+		}
     ],
     "require": {
-      "imagine/imagine": "^0.6.3",
+      "imagine/imagine": "^0.6.3|^0.7.1",
       "php": ">=7.0.0"
     },
     "autoload": {
